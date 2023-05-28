@@ -1,1 +1,1 @@
-# Java-REST-API-using--ersey-
+# Java-REST-API-Jersey-
